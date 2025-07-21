@@ -163,7 +163,7 @@ const getWelcomeEmailTemplate = (userName) => {
         <p>Tu cuenta ya está activa y lista para usar. ¡Explora todo lo que CoworkingApp tiene para ofrecerte!</p>
         
         <div style="text-align: center;">
-          <a href="http://localhost:3001/dashboard" class="cta-button">
+          <a href="http://localhost:3000/dashboard" class="cta-button">
             Ir a mi Dashboard
           </a>
         </div>
@@ -188,8 +188,8 @@ const getWelcomeEmailTemplate = (userName) => {
       
       <div class="footer">
         <p>Este correo fue enviado porque te registraste en CoworkingApp</p>
-        <p>📧 info@coworkingapp.com | 📞 +1 (555) 123-4567</p>
-        <p>123 Business Ave, Ciudad | www.coworkingapp.com</p>
+        <p>📧 coworkingappcithn@gmail.com</p>
+        <p>San Pedro Sula, Honduras | www.coworkingapp.com</p>
       </div>
     </body>
     </html>
